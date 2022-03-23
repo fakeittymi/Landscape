@@ -1,0 +1,20 @@
+D:\Projects_CSharp\Examples\WindowsFormsApplication317 - 4\WindowsFormsApplication317\bin\Release\WindowsFormsApplication317.exe.config
+D:\Projects_CSharp\Examples\WindowsFormsApplication317 - 4\WindowsFormsApplication317\bin\Release\heightmap.png
+D:\Projects_CSharp\Examples\WindowsFormsApplication317 - 4\WindowsFormsApplication317\bin\Release\WindowsFormsApplication317.exe
+D:\Projects_CSharp\Examples\WindowsFormsApplication317 - 4\WindowsFormsApplication317\bin\Release\WindowsFormsApplication317.pdb
+D:\Projects_CSharp\Examples\WindowsFormsApplication317 - 4\WindowsFormsApplication317\obj\Release\WindowsFormsApplication317.Form1.resources
+D:\Projects_CSharp\Examples\WindowsFormsApplication317 - 4\WindowsFormsApplication317\obj\Release\WindowsFormsApplication317.Properties.Resources.resources
+D:\Projects_CSharp\Examples\WindowsFormsApplication317 - 4\WindowsFormsApplication317\obj\Release\WindowsFormsApplication317.csproj.GenerateResource.Cache
+D:\Projects_CSharp\Examples\WindowsFormsApplication317 - 4\WindowsFormsApplication317\obj\Release\WindowsFormsApplication317.exe
+D:\Projects_CSharp\Examples\WindowsFormsApplication317 - 4\WindowsFormsApplication317\obj\Release\WindowsFormsApplication317.pdb
+D:\4 курс\УЧМИ\WindowsFormsApplication317 - 4\WindowsFormsApplication317\bin\Release\heightmap.png
+D:\4 курс\УЧМИ\WindowsFormsApplication317 - 4\WindowsFormsApplication317\bin\Release\WindowsFormsApplication317.exe.config
+D:\4 курс\УЧМИ\WindowsFormsApplication317 - 4\WindowsFormsApplication317\bin\Release\WindowsFormsApplication317.exe
+D:\4 курс\УЧМИ\WindowsFormsApplication317 - 4\WindowsFormsApplication317\bin\Release\WindowsFormsApplication317.pdb
+D:\4 курс\УЧМИ\WindowsFormsApplication317 - 4\WindowsFormsApplication317\obj\Release\WindowsFormsApplication317.csprojAssemblyReference.cache
+D:\4 курс\УЧМИ\WindowsFormsApplication317 - 4\WindowsFormsApplication317\obj\Release\WindowsFormsApplication317.Form1.resources
+D:\4 курс\УЧМИ\WindowsFormsApplication317 - 4\WindowsFormsApplication317\obj\Release\WindowsFormsApplication317.Properties.Resources.resources
+D:\4 курс\УЧМИ\WindowsFormsApplication317 - 4\WindowsFormsApplication317\obj\Release\WindowsFormsApplication317.csproj.GenerateResource.cache
+D:\4 курс\УЧМИ\WindowsFormsApplication317 - 4\WindowsFormsApplication317\obj\Release\WindowsFormsApplication317.csproj.CoreCompileInputs.cache
+D:\4 курс\УЧМИ\WindowsFormsApplication317 - 4\WindowsFormsApplication317\obj\Release\WindowsFormsApplication317.exe
+D:\4 курс\УЧМИ\WindowsFormsApplication317 - 4\WindowsFormsApplication317\obj\Release\WindowsFormsApplication317.pdb
